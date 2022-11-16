@@ -17,3 +17,5 @@
 * `WIDTH` imposta la larghezza delle immagini ridimensionate
 * `HEIGHT` imposta l'altezza delle immagini ridimensionate
 * `PREFIX` imposta un prefisso per il nome delle immagini ridimensionate
+
+---
